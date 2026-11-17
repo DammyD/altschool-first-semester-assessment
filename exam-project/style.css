@@ -391,7 +391,7 @@ ul {
 @media (max-width: 1439px) {
     .footer {
         .footer__brand {
-            flex: 0 0 auto;
+            flex: 0 1 30%;
             margin-right: 3rem;
         }
 
