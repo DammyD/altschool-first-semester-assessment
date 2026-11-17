@@ -39,13 +39,33 @@ The focus is therefore on the structure, semantics, accessibility, and proper us
 
 ## Project Structure
 
+This reposiory consists of all assignments and examination project for the first semester of being a student at AltSchool learning AI-Powered FullStack Engineering
+
 ```text
+css-assignment/
+├── assets/
+├── img/
+├── index.html
+├── 
+exam-project/
+├── assets/
+├── img/
+├── index.html
+├── style.css
 first-assignment/
 ├── index.html
 ├── form.html
+second-assignment/
+├── assets/
+├── fonts/
+├── img/
+├── index.html
+├── style.css
 └── README.md
 ```
 
+![Exam project design](./exam-project/assests/img/Screenshot%202026-11-17%20161631.png)
+
 ## Author
 
-**Blessing Dawodu**
+Blessing Dawodu
